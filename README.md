@@ -1,6 +1,6 @@
 # v-music-player
-Hello everyone, my first project is a music player named as V-music-player. it is developed in python.
-A simple music player developed by Vinayak M. H.
+Hello everyone, I am Vinayak M. H. my first project is a music player named as V-music-player. it is developed in python.
+A simple music player developed by me.
 assistance from internet has been taken while developing the V-music-player
 copy all the 6 files given in this repository to this folder - C:\Users\Anand\PycharmProjects\pythonProject
 install the pycharm software from the internet before running the file.
